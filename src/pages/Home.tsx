@@ -45,7 +45,7 @@ const Home = () => (
           <h1 className="mb-6 font-display text-5xl font-bold leading-tight text-foreground">
             Analyse de performance
             <br />
-            <span className="text-primary">d'une éolienne type</span>
+            <span className="text-primary">d'une éolienne</span>
           </h1>
           <p className="mx-auto mb-10 max-w-2xl text-lg text-muted-foreground">
             Dashboard interactif pour explorer les données de campagne de mesure certifiée :
@@ -56,7 +56,7 @@ const Home = () => (
             to="/analyse"
             className="inline-flex items-center gap-2 rounded-lg bg-primary px-6 py-3 text-sm font-semibold text-primary-foreground transition-colors hover:bg-primary/90"
           >
-            Explorer l'analyse
+            Analyser une éolienne
             <ArrowRight className="h-4 w-4" />
           </Link>
         </motion.div>
