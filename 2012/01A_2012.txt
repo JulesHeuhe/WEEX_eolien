@@ -1,4 +1,4 @@
-Day	 Month	 Year	 Velocity [m/s]	 Direction [°]
+Day	 Month	 Year	 Velocity [m/s]	 Direction [ï¿½]
 NAN values refers to not available data.
      1	      1	   2012	   11.9	   11.5
      2	      1	   2012	   10.7	    2.2
